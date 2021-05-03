@@ -1,0 +1,8 @@
+Designed with Altium Circuit Studio.
+
+License copy for the Altium Circuit Studio has been acquired (purchased) 
+thanks to the sporship of the "America For Bulgaria" Foundation.
+
+You can view the PCB document via the free version of 
+Altium - Altium Designer Viewer, avaible for download
+here: https://www.altium.com/altium-designer-viewer
