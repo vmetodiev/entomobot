@@ -6,6 +6,9 @@ continuing with formulas for peach, cherry and plum tree pests.
 Projec website (unfinished): www.entomobot.bg
 
 
+![Screenshot](us4bg-logo.png)
+
+
 Sponsored by America for Bulgaria Foundation
 
 Special details (in Bulgarian):
