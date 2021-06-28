@@ -1,1 +1,7 @@
-Coming soon ...
+Designed with Altium CircuitStudio.
+
+License copy of the Altium CircuitStudio tool has been purchased 
+thanks to the sponsorship of the "America For Bulgaria" Foundation.
+
+You can view the PCB document via the free version of 
+Altium 365 viewer here: https://www.altium.com/viewer/
