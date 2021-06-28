@@ -1,6 +1,6 @@
 # EntomoBot
-EntomoBot is low-cost, fully autonomous entomologic station for harvest monitoring.
-Right now our aims to proactively predict the apperance of the green worm (cydia pomonella),
+EntomoBot is low-cost, fully-autonomous entomological station for harvest monitoring.
+Right now, our aim is to proactively predict the apperance of the green worm (cydia pomonella),
 continuing with formulas for peach, cherry and plum tree pests.
 
 Projec website (unfinished): www.entomobot.bg
